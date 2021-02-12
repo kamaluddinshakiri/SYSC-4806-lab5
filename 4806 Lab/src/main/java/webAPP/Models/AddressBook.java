@@ -6,7 +6,6 @@ import java.util.List;
 @Entity
 public class AddressBook {
 
-
 	private Long id;
 	private List<BuddyInfo> buddies = new ArrayList<BuddyInfo>();
 
